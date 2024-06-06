@@ -93,17 +93,24 @@ From the data provided ,we can’t establish how numbers of cars , commute dista
 ## Dashboard 
 The  interactive dashboard contains 3 different pages .  
 
-**Demographic Analysis**
+# **Demographic Analysis**
 
 ![Page1](Page1.png)
 
-**Income Analysis**
+# **Income Analysis**
 
-![Page2](Page 2.png)
+![Page2](Page2.png)
 
-**Behavioural Analysis**
+# **Behavioural Analysis**
 
-![Page3](Page 3.png)
+![Page3](Page3.png)
+
+## Instructions for Use  
+
+Download the dataset from the provided GitHub repository link.  
+Explore the interactive dashboard to gain insights into bike buyers and sales  based on various demographics.  
+Contribute or modify the project as needed for your specific requirements.
+
 
 
 
