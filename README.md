@@ -108,7 +108,7 @@ The  interactive dashboard contains 3 different pages .
 ## Instructions for Use  
 
 Download the dataset from the provided GitHub repository link.  
-Explore the interactive dashboard to gain insights into bike buyers and sales  based on various demographics.  
+Explore the interactive dashboard Bikesales.xlsx to gain insights into bike buyers and sales  based on various demographics.  
 Contribute or modify the project as needed for your specific requirements.
 
 
